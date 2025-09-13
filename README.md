@@ -1,4 +1,9 @@
-### 🎨 My Curated Gallery - Figure Action | Prompt by Adnan
+### 
+
+
+<h2 align="center">🎨 My Curated Gallery - Figure Action | Prompt by Adnan</h2>
+
+###
 
 <table>
   <tr>
